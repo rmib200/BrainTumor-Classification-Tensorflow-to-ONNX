@@ -9,4 +9,4 @@ This project is aimed to the classification of tumors in human brains 🧠 with 
 
 The model uses an extremely simple architecture and few learning epochs to achieve a high degree of prediction.
 
-The dataset and the code for the code are available as well as the model in ONNX format.
+The dataset and the code for the project are available as well as the model in ONNX format.

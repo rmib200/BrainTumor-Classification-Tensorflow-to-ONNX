@@ -15,6 +15,7 @@ The dataset and the code for the project are available as well as the [model in 
 
 
 # Unity-App
+The projects uses [Barracuda](https://github.com/Unity-Technologies/barracuda-release) a Neural Network inference library for Unity that can run NN on GPU and CPU.
 
 ![https://github.com/rmib200/BrainTumor-Classification-Tensorflow-to-ONNX/blob/main/main_menu.png](https://github.com/rmib200/BrainTumor-Classification-Tensorflow-to-ONNX/blob/main/main_menu.png)
 

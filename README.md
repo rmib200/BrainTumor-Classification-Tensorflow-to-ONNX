@@ -21,3 +21,6 @@ The projects uses [Barracuda](https://github.com/Unity-Technologies/barracuda-re
 
 You can choose an image from your device and the program will create a texture of the correct size to pass it through the Network.
 ![https://github.com/rmib200/BrainTumor-Classification-Tensorflow-to-ONNX/blob/main/classification_view.png](https://github.com/rmib200/BrainTumor-Classification-Tensorflow-to-ONNX/blob/main/classification_view.png)
+
+# Disclaimer
+This software is presented as a cool personal project and not as a medically validated tool. This program is a work in progress and should not be used at any medical capacity.
